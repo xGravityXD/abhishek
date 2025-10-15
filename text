@@ -1,0 +1,3 @@
+**Business Scenario for Batch Prediction**
+
+A real-world business scenario where batch prediction is highly valuable is in an e-commerce company that needs to moderate or categorize thousands of user-uploaded product images daily. Instead of processing one image at a time (which is slow and inefficient), the company’s moderation team can upload an entire batch of images at once and instantly receive predictions on whether each image belongs to the correct category (e.g., electronics, clothing, home goods, etc.). This saves significant time, improves workflow efficiency, and can help automate quality control at scale.
